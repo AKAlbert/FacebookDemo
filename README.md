@@ -11,4 +11,5 @@
 
 ## To run this project, go to the repo and clone using ssh (If you have ssh connection set on you machine) or with http 
 - Then open the project in your IDE (Eclipse)
-- save the pom.xml file so that the dependencies are downloaded to your machine and then run the tests
+- save the pom.xml file so that the dependencies are downloaded to your machine 
+- Go to src/test/java and go to com.facebookDemo.testCases and run TC_FacebookTest.java (Run as TestNG test)
