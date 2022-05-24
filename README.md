@@ -8,3 +8,7 @@
 - Extent Reports for generating test reports after every run
 - Log4J logger for making logs while executing the test steps
 - Maven for the build
+
+## To run this project, go to the repo and clone using ssh (If you have ssh connection set on you machine) or with http 
+- Then open the project in your IDE (Eclipse)
+- save the pom.xml file so that the dependencies are downloaded to your machine and then run the tests
